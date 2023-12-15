@@ -40,7 +40,8 @@ Circuit Diagram
 
 4. Setting the Arduino IDE
     * Change the WIFi credentials and parameters according to you
-    * Now, upload the code and analyze the data generated. 
+    * Now, upload the code and analyze the data generated.
+      
 5. Output
    ![Screenshot 2023-12-14 165952](https://github.com/om-1980/Weather-data/assets/111452597/cec4fc98-0aa5-4a52-98eb-7a6e03827571)
 
