@@ -10,7 +10,8 @@ Software Requirement:
    * Arduino IDE
 
 Circuit Diagram
-  ![circuit](https://github.com/om-1980/Weather-prediction-/assets/111452597/83069b9c-90e2-44fc-a3c0-37c896d4ca51)
+  ![circuit](https://github.com/om-1980/Weather-data/assets/111452597/58bc807c-4867-42be-84d1-f9643bf1a37b)
+
 
     
 1. Install Library File
@@ -25,5 +26,7 @@ Circuit Diagram
     * Now, upload the code and analyze the data generated.
 
 3. Output
-   ![image](https://github.com/om-1980/weather-prediction-/assets/111452597/0694a0e6-9b60-4005-8e7c-0a92bfd48960)
+   ![Screenshot 2023-12-14 170255](https://github.com/om-1980/Weather-data/assets/111452597/07f08192-2389-4f79-adf1-9fdc3de9e8ab)
+
+  
 
