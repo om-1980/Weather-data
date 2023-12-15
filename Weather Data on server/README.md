@@ -10,7 +10,8 @@ Software Requirement:
    * Arduino IDE
 
 Circuit Diagram
-  ![Uploading circuit.jpg…]()
+ 
+![circuit](https://github.com/om-1980/Weather-data/assets/111452597/6d3df60f-1fab-4c38-a30b-8edb0b7979a2)
 
 
 
