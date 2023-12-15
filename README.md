@@ -10,16 +10,19 @@ Software Requirement:
    * Arduino IDE
 
 Circuit Diagram
-![circuit](https://github.com/om-1980/Weather-prediction-/assets/111452597/bc1fc1de-bfa2-42c7-9144-4ee4418611c1)
+![circuit](https://github.com/om-1980/Weather-data/assets/111452597/cccbb0f4-b68e-4acf-a154-e388d3639eea)
+
 
 
 
 Outputs
 
-![image](https://github.com/om-1980/weather-prediction-/assets/111452597/a39c9f17-9595-47d5-97a9-fcebc2e30ee1)
-![image](https://github.com/om-1980/weather-prediction-/assets/111452597/b254cd58-3c58-45b0-bb80-36693f87364f)
-![image](https://github.com/om-1980/weather-prediction-/assets/111452597/ac790bca-a0a0-4bb7-a601-313d81d3d734)
-![image](https://github.com/om-1980/weather-prediction-/assets/111452597/53dc6cb4-790a-4385-b793-6600a72e907f)
+![Screenshot 2023-12-14 170255](https://github.com/om-1980/Weather-data/assets/111452597/d59f8afe-cfb6-449f-8025-5fafcd93ecec)
+
+![Screenshot 2023-12-14 165007](https://github.com/om-1980/Weather-data/assets/111452597/b19297e3-85a9-487a-a4d0-8558e3fc0e97)
+![Screenshot 2023-12-14 165056](https://github.com/om-1980/Weather-data/assets/111452597/9983e595-a767-417e-9b23-6644702006c9)
+
+![Screenshot 2023-12-14 165952](https://github.com/om-1980/Weather-data/assets/111452597/547d61f4-1066-4ccf-a5b9-6e3f4dcc0eaa)
 
 
 For further details check the given files!
