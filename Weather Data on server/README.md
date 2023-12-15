@@ -10,7 +10,8 @@ Software Requirement:
    * Arduino IDE
 
 Circuit Diagram
-   ![circuit](https://github.com/om-1980/Weather-prediction-/assets/111452597/c81c411f-8967-41a3-9a85-86edc9812ddd)
+  ![Uploading circuit.jpg…]()
+
 
 
 1. Setting Up ThingSpeak
@@ -27,7 +28,8 @@ Circuit Diagram
     * Now, upload the code and analyze the graph generated
   
 4. Output
-   ![image](https://github.com/om-1980/weather-prediction-/assets/111452597/7d3cd2b4-babf-4c2c-aec3-45c063b080e3)
-   ![image](https://github.com/om-1980/weather-prediction-/assets/111452597/5b01fba0-46f1-4a2e-bea1-cbbfad16704d)
+   
+![Screenshot 2023-12-14 165007](https://github.com/om-1980/Weather-data/assets/111452597/183d0e1b-d455-4089-815a-ee5f7cba1de5)
 
 
+![Screenshot 2023-12-14 165056](https://github.com/om-1980/Weather-data/assets/111452597/bf07db65-fb58-4349-8f18-aa0eb81d1ee5)
