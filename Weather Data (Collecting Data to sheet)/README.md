@@ -10,7 +10,8 @@ Software Requirement:
    * Arduino IDE
 
 Circuit Diagram
-![circuit](https://github.com/om-1980/Weather-prediction-/assets/111452597/f705196e-018c-49f0-8172-8661d21f1210)
+![circuit](https://github.com/om-1980/Weather-data/assets/111452597/08c72693-9fec-4db2-ba53-dc21abb5ef13)
+
 
 
 1. Install Library File
@@ -41,6 +42,7 @@ Circuit Diagram
     * Change the WIFi credentials and parameters according to you
     * Now, upload the code and analyze the data generated. 
 5. Output
-   ![image](https://github.com/om-1980/weather-prediction-/assets/111452597/b6e115e2-8392-4bcb-ae61-a959c4621f10)
+   ![Screenshot 2023-12-14 165952](https://github.com/om-1980/Weather-data/assets/111452597/cec4fc98-0aa5-4a52-98eb-7a6e03827571)
+
 
     
