@@ -26,6 +26,7 @@ Circuit Diagram
     * Now, upload the code and analyze the data generated.
 
 3. Output
+   
    ![Screenshot 2023-12-14 170255](https://github.com/om-1980/Weather-data/assets/111452597/07f08192-2389-4f79-adf1-9fdc3de9e8ab)
 
   
